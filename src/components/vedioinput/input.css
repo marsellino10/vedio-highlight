@@ -1,0 +1,32 @@
+.input-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px dashed #6aac28;
+    height: 300px;
+    width: 500px;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
+.VideoInput_video{
+    /* border-radius: 2rem; */
+    background-color: black;
+}
+
+.data-div{
+    margin: 0.8rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #6aac28;
+    border-radius: 1rem;
+    padding: 1rem 1.2rem;
+}
+
+.span{
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+}

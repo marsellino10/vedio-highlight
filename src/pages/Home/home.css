@@ -1,0 +1,8 @@
+.vedio-highlight-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    transform: translateZ(-200px);
+    
+}
